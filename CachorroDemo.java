@@ -11,7 +11,7 @@ class Cachorro extends Animal{
     }
 }
 
-public class NewCachorro{
+public class CachorroDemo{
     public static void main(String[] args){
         Cachorro meuCachorro = new Cachorro();
         meuCachorro.nome = "Rex";
